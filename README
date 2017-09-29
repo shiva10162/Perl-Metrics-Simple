@@ -1,3 +1,5 @@
+Testing this file to merge it back to upstream to check forking repository changes.
+
 NAME
     Perl::Metrics::Simple - Static analysis of Perl code. Counts complexity, packages, subs, lines, etc. of many files.
 
